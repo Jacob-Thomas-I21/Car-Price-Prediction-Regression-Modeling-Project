@@ -84,7 +84,7 @@ GridSearchCV was applied to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/car-price-regression.git
+   git clone https://github.com/Jacob-Thomas-I21/Car-Price-Prediction-Regression-Modeling-Project
    cd car-price-regression
    ```
 
@@ -111,7 +111,7 @@ GridSearchCV was applied to:
 
 ## 📬 Author
 
-- **Your Name**  
+- **Jacob Thomas Joshy**  
   📧 jacobtjoshy@gmail.com
   🌐 https://github.com/Jacob-Thomas-I21
 
